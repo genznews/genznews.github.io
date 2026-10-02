@@ -1,1 +1,0 @@
-import{R as t}from"../chunks/BUApaBEI.js";import{b as r}from"../chunks/Bme8Upk6.js";function n(e,o){throw new t(e,o.toString())}function i(){n(308,`${r}/`)}const l=Object.freeze(Object.defineProperty({__proto__:null,load:i},Symbol.toStringTag,{value:"Module"}));export{l as universal};
